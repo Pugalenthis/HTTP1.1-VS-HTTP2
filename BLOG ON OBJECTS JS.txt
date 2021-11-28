@@ -1,0 +1,19 @@
+BLOG ABOUT JAVASCRIPT OBJECTS;
+
+OBJECTS ;
+
+     1)  javascript objects are variables too,but contain many values.
+
+     2) javascript should written in name:value pairs.
+
+     3) objects has a properties which can be written as a name and value of that properties can be written as value.
+
+     4) methods is the actions performed on objects.
+
+     5) spaces and line breaks are not important as it can span multiple lines.
+     
+     6) Object values should written inside double quotes.
+
+     EXAMPLE;
+
+      const car = {model : "hyundai 360",color : "red",year of launch : "2016"}

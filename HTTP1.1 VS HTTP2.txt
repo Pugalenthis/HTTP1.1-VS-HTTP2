@@ -1,0 +1,21 @@
+HTTP 1.1:
+
+     1) Http 1.1 send files (HTML,JS and CSS) one by one from server to client so if one file takes time to load it restricts another files to open.
+
+     2) As we know the file restriction is here it slow down the display speed of content to the user.
+
+     3) Http1.1 request all files over a single TCP connection.
+
+     4) All Http connection compress files for easy transfer,whereas the Http 1.1 uses least compression method.
+
+
+
+HTTP 2:
+ 
+     1) http 2 sends whole files at once so there is no possible ways to one file restricts another.
+
+     2) As we know the file restriction is not here it enhance the display speed of content to the user.
+
+     3) Http 2  loads request  a new TCP conection for a every single request.
+
+     4) Http 2 uses advanced compression method to compress.
